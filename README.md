@@ -1,6 +1,6 @@
 # Hi, I’m Ayela 👋
 
-MIT ORC master’s student working at the intersection of **machine learning** and **operations research** — building **deep learning + optimization** methods that improve **performance, coverage, and fairness** across real-world subpopulations.
+MIT Operations Research Center master’s student working at the intersection of **machine learning** and **operations research** , building **deep learning + optimization** methods that improve **performance, coverage, and fairness** across real-world subpopulations.
 
 **Interests:** NLP • algorithmic fairness • computer vision • prescriptive optimization
 
@@ -37,7 +37,7 @@ MIT ORC master’s student working at the intersection of **machine learning** a
 ---
 
 ## 🎓 Education
-- **MIT Operations Research Center** — M.S. in Machine Learning & Operations Research (2025–2026)  
+- **MIT Operations Research Center** — Master's in Machine Learning & Operations Research (2025–2026)  
 - **UC Berkeley** — B.A. Data Science & Econometrics (2018–2022)
 
 ---
